@@ -1,0 +1,34 @@
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\bin\Debug\net6.0\QuizzJSON.exe
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\bin\Debug\net6.0\QuizzJSON.deps.json
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\bin\Debug\net6.0\QuizzJSON.runtimeconfig.json
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\bin\Debug\net6.0\QuizzJSON.dll
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\bin\Debug\net6.0\ref\QuizzJSON.dll
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\bin\Debug\net6.0\QuizzJSON.pdb
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.csproj.AssemblyReference.cache
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.AssemblyInfoInputs.cache
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.AssemblyInfo.cs
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.csproj.CoreCompileInputs.cache
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.dll
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\ref\QuizzJSON.dll
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.pdb
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.genruntimeconfig.cache
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\khenk\Desktop\La Manu exo\POO\QuizzJSON\QuizzJSON\obj\Debug\net6.0\QuizzJSON.csproj.CopyComplete
+C:\Users\Mody\Desktop\QuizzJSON\bin\Debug\net6.0\QuizzJSON.exe
+C:\Users\Mody\Desktop\QuizzJSON\bin\Debug\net6.0\QuizzJSON.deps.json
+C:\Users\Mody\Desktop\QuizzJSON\bin\Debug\net6.0\QuizzJSON.runtimeconfig.json
+C:\Users\Mody\Desktop\QuizzJSON\bin\Debug\net6.0\QuizzJSON.dll
+C:\Users\Mody\Desktop\QuizzJSON\bin\Debug\net6.0\ref\QuizzJSON.dll
+C:\Users\Mody\Desktop\QuizzJSON\bin\Debug\net6.0\QuizzJSON.pdb
+C:\Users\Mody\Desktop\QuizzJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.csproj.AssemblyReference.cache
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.AssemblyInfoInputs.cache
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.AssemblyInfo.cs
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.csproj.CoreCompileInputs.cache
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.csproj.CopyComplete
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.dll
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\ref\QuizzJSON.dll
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.pdb
+C:\Users\Mody\Desktop\QuizzJSON\obj\Debug\net6.0\QuizzJSON.genruntimeconfig.cache

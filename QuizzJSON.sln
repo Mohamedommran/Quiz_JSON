@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizzJSON", "QuizzJSON.csproj", "{9E3B6AA7-F288-4CA8-8B56-56379C461917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3B6AA7-F288-4CA8-8B56-56379C461917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3B6AA7-F288-4CA8-8B56-56379C461917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3B6AA7-F288-4CA8-8B56-56379C461917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3B6AA7-F288-4CA8-8B56-56379C461917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBB5D547-FAF8-42C3-A9F7-E80F1C9D572D}
+	EndGlobalSection
+EndGlobal

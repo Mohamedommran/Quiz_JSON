@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Sg0meYXQ1knX/eFPGgfCTlsJVzWHcHGcOuADC5jiqGGIf8f56eDOEok43lnzMyi/PnKKsPZXT5MdzWdGLrQjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mody\\Desktop\\QuizzJSON\\QuizzJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mody\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

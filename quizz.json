@@ -1,0 +1,26 @@
+{
+    "users": {
+        "admin" : {
+            "id": "1",
+            "name": "Admin",
+            "password": "4dmin"
+        },
+        "user" : {
+            "id": "2",
+            "name": "User",
+            "password": "useR"
+        }
+    },
+    "questions": [
+      "De quel couleur est le ciel ?",
+      "Les arbres sont fait de quel matière ?",
+      "Je suis un hérisson bleu qui cours vite. Qui suis-je ?",
+      "Si je ne meurs pas je suis ?"
+    ],
+    "answers": [
+        "bleu",
+        "bois",
+        "sonic",
+        "immortel"
+    ]
+}
